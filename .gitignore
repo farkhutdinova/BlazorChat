@@ -1,0 +1,8 @@
+*/.vs/*
+*/.idea/*
+
+BlazorChat/BlazorChat.Client/bin/
+BlazorChat/BlazorChat.Client/obj/
+
+BlazorChat/BlazorChat/bin/
+BlazorChat/BlazorChat/obj/
